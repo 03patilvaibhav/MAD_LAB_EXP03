@@ -36,7 +36,7 @@ class _ProfilePageState extends State<ProfilePage> {
             Center(
               child: CircleAvatar(
                 radius: 40.0,
-                backgroundImage: AssetImage('assets/images/profile/male_profile.png'),
+                backgroundImage: AssetImage('assets/images/male_profile.png'),
               ),
             ),
             Divider(
